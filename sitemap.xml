@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://decodelearnup.com/index.php</loc><priority>1.0</priority></url>
+  <url><loc>https://decodelearnup.com/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://decodelearnup.com/contact.html</loc><priority>0.8</priority></url>
+  <url><loc>https://decodelearnup.com/blog.html</loc><priority>0.9</priority></url>
+  <url><loc>https://decodelearnup.com/privacy-policy.html</loc><priority>0.5</priority></url>
+  <url><loc>https://decodelearnup.com/terms-and-conditions.html</loc><priority>0.5</priority></url>
+  <url><loc>https://decodelearnup.com/disclaimer.html</loc><priority>0.5</priority></url>
+  <url><loc>https://decodelearnup.com/cookie-policy.html</loc><priority>0.5</priority></url>
+  <url><loc>https://decodelearnup.com/blog/algorithmic-decomposition-computational-thinking-pedagogy.html</loc><priority>0.7</priority></url>
+  <url><loc>https://decodelearnup.com/blog/cryptographic-hashing-zero-knowledge-mental-models.html</loc><priority>0.7</priority></url>
+  <url><loc>https://decodelearnup.com/blog/dynamic-programming-memoization-cognitive-load.html</loc><priority>0.7</priority></url>
+  <url><loc>https://decodelearnup.com/blog/asymptotic-time-complexity-big-o-notation-curriculum.html</loc><priority>0.7</priority></url>
+  <url><loc>https://decodelearnup.com/blog/recursive-backtracking-graph-traversal-pedagogy.html</loc><priority>0.7</priority></url>
+  <url><loc>https://decodelearnup.com/blog/distributed-consensus-protocols-computational-systems.html</loc><priority>0.7</priority></url>
+</urlset>
